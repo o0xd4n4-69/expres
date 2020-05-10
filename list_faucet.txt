@@ -1,0 +1,10 @@
+DOGE=>toptap.website/ecdoge
+BCH=>earnbch.xyz
+XRP=>earnxrp.xyz
+EXS=>coincycles.com/exs
+XRP=>coincycles.com/xrp
+BCH=>coincycles.com/bch
+BCN=>coincycles.com/bcn
+LTC=>ltcoin.club
+LTC=>coincycles.com/ltc
+BCN=>faucetcoins.org/bcn
